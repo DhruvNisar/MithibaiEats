@@ -49,6 +49,9 @@ app.use('/images', express.static(path.join(__dirname, '../public/images')));
 app.use('/food', express.static(path.join(__dirname, '../public/food')));
 app.use('/public', express.static(path.join(__dirname, '../public')));
 
+const clientDistPath = path.join(__dirname, '../../client/dist');
+app.use(express.static(clientDistPath));
+
 app.use('/api', generalLimiter);
 
 // Mount API Routes
@@ -76,9 +79,14 @@ const healthHandler = (_req: Request, res: Response) => {
 app.get('/health', healthHandler);
 app.get('/api/health', healthHandler);
 
-// 404 Route Handler
-app.use((_req: Request, res: Response) => {
-  res.status(404).json({ success: false, message: 'API route not found.' });
+// SPA Client Route Fallback
+app.get('*', (req: Request, res: Response, next: NextFunction) => {
+  if (req.path.startsWith('/api') || req.path.startsWith('/images') || req.path.startsWith('/food') || req.path.startsWith('/public')) {
+    return next();
+  }
+  res.sendFile(path.join(clientDistPath, 'index.html'), (err) => {
+    if (err) next();
+  });
 });
 
 // Global Error Handler

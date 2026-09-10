@@ -4,7 +4,8 @@ let socket: Socket | null = null;
 
 export const connectSocket = (token?: string): Socket => {
   if (!socket) {
-    socket = io('http://localhost:5000', {
+    const socketUrl = (import.meta as any).env?.VITE_SOCKET_URL || (import.meta as any).env?.VITE_API_URL?.replace('/api', '') || window.location.origin;
+    socket = io(socketUrl, {
       auth: token ? { token } : undefined,
       transports: ['websocket', 'polling'],
       reconnection: true,
