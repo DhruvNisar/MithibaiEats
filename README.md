@@ -2,9 +2,19 @@
 
 > **Official Food Ordering Platform for SVKM's Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics (Vile Parle West, Mumbai).**
 
-A production-grade, full-stack campus pickup-only web application designed to eliminate lunch-hour queues across Mithibai's 3 distinct campus canteens.
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/DhruvNisar/MithibaiEats)
+
+A production-grade, full-stack campus web application designed to eliminate lunch-hour queues across Mithibai's campus canteens.
 
 ---
+
+## 🚀 Live 1-Click Cloud Deployment (Render)
+
+Deploy the entire app (React UI, Express Backend, Socket.IO WebSockets, Database Auto-Seeder) live to Render in 1 click:
+
+1. Click the **[Deploy to Render](https://render.com/deploy?repo=https://github.com/DhruvNisar/MithibaiEats)** button above.
+2. Render will automatically read `render.yaml` and create the full-stack web service.
+3. Click **Create Web Service** to launch your live site!
 
 ## 🏢 The 3 Campus Canteens & Specialty Counters
 
