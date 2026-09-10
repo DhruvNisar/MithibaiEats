@@ -8,12 +8,18 @@ dist/
 client/dist/
 server/dist/
 build/
+.vercel
 
 # Environment and secrets
 .env
+.env.*
+*.env
+*.env.local
 server/.env
 client/.env
-*.env.local
+!.env.example
+!client/.env.example
+!server/.env.example
 
 # Logs
 *.log

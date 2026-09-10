@@ -2,7 +2,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 export const config = {
-  mongoUri: process.env.MONGO_URI || 'mongodb://localhost:27017/mithibai-eats',
+  mongoUri: process.env.MONGODB_URI || process.env.MONGO_URI || 'mongodb://localhost:27017/mithibai-eats',
   jwtSecret: process.env.JWT_SECRET || 'fallback-secret-change-in-production',
   port: parseInt(process.env.PORT || '5000', 10),
   clientUrl: process.env.CLIENT_URL || 'http://localhost:5173',

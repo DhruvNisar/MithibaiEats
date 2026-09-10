@@ -1,4 +1,4 @@
-﻿import { Server as HttpServer } from 'http';
+import { Server as HttpServer } from 'http';
 import { Server, Socket } from 'socket.io';
 import { config } from '../config/env';
 
@@ -7,8 +7,10 @@ let io: Server | null = null;
 export const initSocketServer = (httpServer: HttpServer): Server => {
   io = new Server(httpServer, {
     cors: {
-      origin: [config.clientUrl, 'http://localhost:5173', 'http://localhost:3000', '*'],
-      methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE'],
+      origin: (origin: string | undefined, callback: (err: Error | null, allow?: boolean) => void) => {
+        callback(null, true);
+      },
+      methods: ['GET', 'POST'],
       credentials: true,
     },
   });

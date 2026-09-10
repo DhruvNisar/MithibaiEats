@@ -17,9 +17,9 @@ services:
       - key: CLIENT_URL
         sync: false
       - key: RAZORPAY_KEY_ID
-        value: rzp_test_TaEujHav1qsOvi
+        sync: false
       - key: RAZORPAY_KEY_SECRET
-        value: 9Co5G8FZ1ybxJSjqBrv3vld5
+        sync: false
 
   # Frontend Static Web Site
   - type: web
