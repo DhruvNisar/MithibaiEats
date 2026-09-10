@@ -1,0 +1,48 @@
+{
+  "name": "mithibai-eats-server",
+  "version": "2.0.0",
+  "description": "Backend for Mithibai Eats 2.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "seed": "ts-node src/seed/seed.ts",
+    "test:auth": "node test_auth_rbac.js",
+    "test:student": "node test_student_flow.js",
+    "test:socket": "node test_realtime_socket.js",
+    "test:qr-pay": "node test_qr_payment.js",
+    "test:ai": "node test_ai_recommendation.js",
+    "test:admin": "node test_admin_analytics.js",
+    "test:audit": "node test_audit_e2e.js",
+    "generate:images": "ts-node scripts/generateFoodImages.ts",
+    "validate:images": "ts-node scripts/validateFoodImages.ts"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.1",
+    "helmet": "^7.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb-memory-server": "^9.1.6",
+    "mongoose": "^7.6.3",
+    "qrcode": "^1.5.3",
+    "razorpay": "^2.9.8",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/cors": "^2.8.15",
+    "@types/express": "^4.17.20",
+    "@types/jsonwebtoken": "^9.0.4",
+    "@types/node": "^20.8.7",
+    "@types/qrcode": "^1.5.5",
+    "nodemon": "^3.0.1",
+    "socket.io-client": "^4.8.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

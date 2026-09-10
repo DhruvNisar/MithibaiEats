@@ -1,0 +1,1236 @@
+[
+  {
+    "name": "Mithibai Deluxe Punjabi Thali",
+    "description": "Grand thali: Paneer Butter Masala, Dal Makhani, Mix Veg, Jeera Rice, 2 Butter Naan, Raita, Gulab Jamun, Salad.",
+    "price": 180,
+    "categorySlug": "meals",
+    "preparationTime": 15,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "deluxe thali",
+      "feast",
+      "bestseller"
+    ],
+    "image": "/food/6th-floor/mithibai-deluxe-punjabi-thali.webp",
+    "rating": 4.2,
+    "popularityScore": 71,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/mithibai-deluxe-punjabi-thali.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Mini Student Thali",
+    "description": "Student budget friendly: Dal Fry, Paneer Sabzi, Jeera Rice, 3 Phulkas, and Pickle.",
+    "price": 110,
+    "categorySlug": "meals",
+    "preparationTime": 10,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "mini thali",
+      "budget",
+      "filling"
+    ],
+    "image": "/food/6th-floor/mini-student-thali.webp",
+    "rating": 4.3,
+    "popularityScore": 21,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/mini-student-thali.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Amritsari Chole Bhature",
+    "description": "2 giant puffed golden bhaturas served with spicy Amritsari chole, pickled onions, and green chilli.",
+    "price": 120,
+    "categorySlug": "meals",
+    "preparationTime": 10,
+    "spicyLevel": "spicy",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "chole bhature",
+      "iconic"
+    ],
+    "image": "/food/6th-floor/amritsari-chole-bhature.webp",
+    "rating": 4.7,
+    "popularityScore": 93,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/amritsari-chole-bhature.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Rajma Chawal Bowl",
+    "description": "Generous bowl of fragrant steamed basmati rice smothered in rich Punjabi rajma gravy.",
+    "price": 95,
+    "categorySlug": "meals",
+    "preparationTime": 7,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "rajma chawal",
+      "comfort"
+    ],
+    "image": "/food/6th-floor/rajma-chawal-bowl.webp",
+    "rating": 4.5,
+    "popularityScore": 45,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/rajma-chawal-bowl.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Chole Chawal Bowl",
+    "description": "Steamed basmati rice topped with spicy Amritsari chole, onions, and lemon wedge.",
+    "price": 95,
+    "categorySlug": "meals",
+    "preparationTime": 7,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "chole chawal",
+      "quick lunch"
+    ],
+    "image": "/food/6th-floor/chole-chawal-bowl.webp",
+    "rating": 4.8,
+    "popularityScore": 46,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/chole-chawal-bowl.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Dal Makhani",
+    "description": "Black lentils and kidney beans slow-simmered overnight with butter, cream, and mild spices.",
+    "price": 115,
+    "categorySlug": "north-indian",
+    "preparationTime": 10,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "dal makhani",
+      "creamy",
+      "popular"
+    ],
+    "image": "/food/6th-floor/dal-makhani.webp",
+    "rating": 4.3,
+    "popularityScore": 71,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/dal-makhani.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Dal Fry",
+    "description": "Comforting yellow lentil stew cooked with onions, tomatoes, and green chillies.",
+    "price": 85,
+    "categorySlug": "north-indian",
+    "preparationTime": 8,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "dal fry",
+      "homestyle"
+    ],
+    "image": "/food/6th-floor/dal-fry.webp",
+    "rating": 4.7,
+    "popularityScore": 99,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/dal-fry.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Dal Tadka",
+    "description": "Yellow toor dal tempered with ghee, cumin seeds, garlic, red chillies, and asafoetida.",
+    "price": 90,
+    "categorySlug": "north-indian",
+    "preparationTime": 8,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "dal tadka",
+      "ghee"
+    ],
+    "image": "/food/6th-floor/dal-tadka.webp",
+    "rating": 4.2,
+    "popularityScore": 48,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/dal-tadka.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "description": "Cubes of fresh cottage cheese simmered in a velvety, rich tomato, butter, and cashew gravy.",
+    "price": 130,
+    "categorySlug": "north-indian",
+    "preparationTime": 12,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "paneer",
+      "makhani",
+      "curry",
+      "bestseller"
+    ],
+    "image": "/food/6th-floor/paneer-butter-masala.webp",
+    "rating": 4.2,
+    "popularityScore": 85,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/paneer-butter-masala.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Kadai Paneer",
+    "description": "Cottage cheese and crisp bell peppers wok-tossed in freshly ground coriander and red chilli masala.",
+    "price": 135,
+    "categorySlug": "north-indian",
+    "preparationTime": 13,
+    "spicyLevel": "spicy",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "kadai paneer",
+      "spicy"
+    ],
+    "image": "/food/6th-floor/kadai-paneer.webp",
+    "rating": 4.7,
+    "popularityScore": 87,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/kadai-paneer.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Shahi Paneer",
+    "description": "Royal dish of paneer cubes cooked in a fragrant white onion, almond, and saffron cream sauce.",
+    "price": 140,
+    "categorySlug": "north-indian",
+    "preparationTime": 12,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "shahi paneer",
+      "royal",
+      "creamy"
+    ],
+    "image": "/food/6th-floor/shahi-paneer.webp",
+    "rating": 4.6,
+    "popularityScore": 78,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/shahi-paneer.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Palak Paneer",
+    "description": "Fresh spinach puree slow-simmered with garlic, cumin, cream, and tender cottage cheese cubes.",
+    "price": 125,
+    "categorySlug": "north-indian",
+    "preparationTime": 12,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "palak paneer",
+      "spinach",
+      "healthy"
+    ],
+    "image": "/food/6th-floor/palak-paneer.webp",
+    "rating": 4.5,
+    "popularityScore": 44,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/palak-paneer.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Paneer Tikka Masala",
+    "description": "Charcoal-grilled marinated paneer cubes drenched in spicy, aromatic onion-tomato gravy.",
+    "price": 145,
+    "categorySlug": "north-indian",
+    "preparationTime": 14,
+    "spicyLevel": "spicy",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "tikka masala",
+      "tandoori"
+    ],
+    "image": "/food/6th-floor/paneer-tikka-masala.webp",
+    "rating": 4.4,
+    "popularityScore": 23,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/paneer-tikka-masala.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Aloo Gobi Masala",
+    "description": "Pan-fried potatoes and tender cauliflower florets spiced with turmeric, cumin, and ginger.",
+    "price": 95,
+    "categorySlug": "north-indian",
+    "preparationTime": 10,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "aloo gobi",
+      "homestyle"
+    ],
+    "image": "/food/6th-floor/aloo-gobi-masala.webp",
+    "rating": 4.5,
+    "popularityScore": 98,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/aloo-gobi-masala.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Jeera Rice",
+    "description": "Basmati rice sauteed with aromatic cumin seeds and a touch of desi ghee.",
+    "price": 75,
+    "categorySlug": "rice",
+    "preparationTime": 5,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "jeera rice",
+      "side"
+    ],
+    "image": "/food/6th-floor/jeera-rice.webp",
+    "rating": 4.4,
+    "popularityScore": 24,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/jeera-rice.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Tawa Pulao (Mumbai Street Style)",
+    "description": "Basmati rice stir-fried on large iron tawa with pav bhaji butter masala, tomatoes, and capsicum.",
+    "price": 100,
+    "categorySlug": "rice",
+    "preparationTime": 9,
+    "spicyLevel": "spicy",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "tawa pulao",
+      "mumbai street"
+    ],
+    "image": "/food/6th-floor/tawa-pulao-mumbai-street-style.webp",
+    "rating": 4.2,
+    "popularityScore": 98,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/tawa-pulao-mumbai-street-style.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Mithibai Veg Dum Biryani",
+    "description": "Layered fragrant basmati rice with marinated spiced vegetables, mint, fried onions, and saffron.",
+    "price": 130,
+    "categorySlug": "biryani",
+    "preparationTime": 12,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "dum biryani",
+      "bestseller"
+    ],
+    "image": "/food/6th-floor/mithibai-veg-dum-biryani.webp",
+    "rating": 4.4,
+    "popularityScore": 85,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/mithibai-veg-dum-biryani.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Paneer Tikka Biryani",
+    "description": "Smoky charcoal tandoor roasted paneer cubes layered with aromatic basmati rice and biryani gravy.",
+    "price": 150,
+    "categorySlug": "biryani",
+    "preparationTime": 13,
+    "spicyLevel": "spicy",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "paneer biryani",
+      "tikka"
+    ],
+    "image": "/food/6th-floor/paneer-tikka-biryani.webp",
+    "rating": 4.4,
+    "popularityScore": 96,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/paneer-tikka-biryani.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Butter Naan",
+    "description": "Fluffy tandoori naan brushed generously with melted butter.",
+    "price": 45,
+    "categorySlug": "north-indian",
+    "preparationTime": 6,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "butter naan"
+    ],
+    "image": "/food/6th-floor/butter-naan.webp",
+    "rating": 4,
+    "popularityScore": 72,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/butter-naan.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Butter Tandoori Roti",
+    "description": "Clay oven roasted wheat roti brushed with melted Amul butter.",
+    "price": 25,
+    "categorySlug": "north-indian",
+    "preparationTime": 5,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "butter roti"
+    ],
+    "image": "/food/6th-floor/butter-tandoori-roti.webp",
+    "rating": 4.7,
+    "popularityScore": 44,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/butter-tandoori-roti.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Laccha Paratha",
+    "description": "Multi-layered crispy flaky whole wheat paratha baked in tandoor.",
+    "price": 40,
+    "categorySlug": "north-indian",
+    "preparationTime": 7,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "laccha paratha"
+    ],
+    "image": "/food/6th-floor/laccha-paratha.webp",
+    "rating": 4.7,
+    "popularityScore": 69,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/laccha-paratha.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Veg Hakka Noodles",
+    "description": "Wok-tossed thin noodles with crunchy cabbage, bell peppers, carrots, spring onions, and soya sauce.",
+    "price": 90,
+    "categorySlug": "chinese",
+    "preparationTime": 8,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "hakka noodles",
+      "chinese classic"
+    ],
+    "image": "/food/6th-floor/veg-hakka-noodles.webp",
+    "rating": 4.5,
+    "popularityScore": 56,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/veg-hakka-noodles.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Schezwan Fried Rice",
+    "description": "Wok-fried rice tossed with fiery red schezwan sauce, capsicum, and spring onions.",
+    "price": 105,
+    "categorySlug": "chinese",
+    "preparationTime": 8,
+    "spicyLevel": "spicy",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "schezwan rice",
+      "bestseller"
+    ],
+    "image": "/food/6th-floor/schezwan-fried-rice.webp",
+    "rating": 4.1,
+    "popularityScore": 28,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/schezwan-fried-rice.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Veg Manchurian Gravy",
+    "description": "Savory vegetable dumplings simmered in rich dark soya-garlic Chinese gravy.",
+    "price": 105,
+    "categorySlug": "indo-chinese",
+    "preparationTime": 10,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "manchurian gravy",
+      "main course"
+    ],
+    "image": "/food/6th-floor/veg-manchurian-gravy.webp",
+    "rating": 4.5,
+    "popularityScore": 35,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/veg-manchurian-gravy.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Paneer Chilli Gravy",
+    "description": "Soft paneer cubes simmered in a spicy, tangy soya-chilli broth with crunchy bell peppers.",
+    "price": 135,
+    "categorySlug": "indo-chinese",
+    "preparationTime": 11,
+    "spicyLevel": "spicy",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "paneer chilli gravy"
+    ],
+    "image": "/food/6th-floor/paneer-chilli-gravy.webp",
+    "rating": 4.2,
+    "popularityScore": 21,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/paneer-chilli-gravy.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Tadka Maggi (Desi Style)",
+    "description": "Maggi tempered with cumin seeds, mustard, curry leaves, and green chillies.",
+    "price": 50,
+    "categorySlug": "maggi",
+    "preparationTime": 6,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "tadka maggi"
+    ],
+    "image": "/food/6th-floor/tadka-maggi-desi-style.webp",
+    "rating": 4.6,
+    "popularityScore": 28,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/tadka-maggi-desi-style.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Cheese Maggi",
+    "description": "Hot steaming Maggi noodles smothered in a thick layer of melted Amul cheese.",
+    "price": 65,
+    "categorySlug": "maggi",
+    "preparationTime": 6,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "cheese maggi",
+      "bestseller"
+    ],
+    "image": "/food/6th-floor/cheese-maggi.webp",
+    "rating": 4.9,
+    "popularityScore": 30,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/cheese-maggi.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Mithibai Special Pav Bhaji",
+    "description": "Rich, slow-simmered vegetable mash prepared with potatoes, tomatoes, and peas, served with 2 butter-toasted pavs.",
+    "price": 90,
+    "categorySlug": "pav",
+    "preparationTime": 8,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "pav bhaji",
+      "mumbai iconic",
+      "bestseller"
+    ],
+    "image": "/food/6th-floor/mithibai-special-pav-bhaji.webp",
+    "rating": 4.5,
+    "popularityScore": 23,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/mithibai-special-pav-bhaji.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Margherita Pizza (7 inch)",
+    "description": "Classic hand-stretched crust with rich Italian herb tomato sauce and melted mozzarella cheese.",
+    "price": 110,
+    "categorySlug": "pizza",
+    "preparationTime": 12,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "margherita",
+      "pizza"
+    ],
+    "image": "/food/6th-floor/margherita-pizza-7-inch.webp",
+    "rating": 4.5,
+    "popularityScore": 69,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/margherita-pizza-7-inch.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "White Sauce Alfredo Pasta",
+    "description": "Penne pasta tossed in velvety rich cream, butter, garlic, and parmesan style cheese.",
+    "price": 130,
+    "categorySlug": "pasta",
+    "preparationTime": 11,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "alfredo",
+      "white sauce",
+      "creamy"
+    ],
+    "image": "/food/6th-floor/white-sauce-alfredo-pasta.webp",
+    "rating": 4,
+    "popularityScore": 71,
+    "stock": 50,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Medium",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Bread/Rice Choice",
+        "options": [
+          "With 2 Butter Rotis",
+          "With Steamed Rice",
+          "With Jeera Rice (+\u20b915)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/6th-floor/white-sauce-alfredo-pasta.webp",
+    "isAiGenerated": true
+  }
+]

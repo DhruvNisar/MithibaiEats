@@ -1,0 +1,1252 @@
+[
+  {
+    "name": "Classic Mithibai Vada Pav",
+    "description": "The undisputed Mumbai college king: spicy potato fritter served in fresh pav with fiery garlic chutney.",
+    "price": 22,
+    "categorySlug": "pav",
+    "preparationTime": 2,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "vada pav",
+      "iconic",
+      "mumbai",
+      "bestseller"
+    ],
+    "image": "/food/ground-floor/classic-mithibai-vada-pav.webp",
+    "rating": 4.2,
+    "popularityScore": 57,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/classic-mithibai-vada-pav.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Cheese Vada Pav",
+    "description": "Classic Mumbai vada pav crowned with a thick slice of melting Amul cheese.",
+    "price": 38,
+    "categorySlug": "pav",
+    "preparationTime": 3,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "cheese",
+      "vada pav"
+    ],
+    "image": "/food/ground-floor/cheese-vada-pav.webp",
+    "rating": 4.8,
+    "popularityScore": 35,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/cheese-vada-pav.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Schezwan Vada Pav",
+    "description": "Hot vada pav slathered with bold homemade spicy schezwan sauce.",
+    "price": 30,
+    "categorySlug": "pav",
+    "preparationTime": 3,
+    "spicyLevel": "spicy",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "schezwan",
+      "spicy",
+      "vada pav"
+    ],
+    "image": "/food/ground-floor/schezwan-vada-pav.webp",
+    "rating": 4.9,
+    "popularityScore": 59,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/schezwan-vada-pav.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Mumbai Misal Pav",
+    "description": "Fiery sprouted moth bean curry garnished with crunchy farsan, chopped onions, lemon, and 2 pavs.",
+    "price": 70,
+    "categorySlug": "pav",
+    "preparationTime": 6,
+    "spicyLevel": "extra_spicy",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "misal pav",
+      "spicy",
+      "maharashtrian"
+    ],
+    "image": "/food/ground-floor/mumbai-misal-pav.webp",
+    "rating": 4.1,
+    "popularityScore": 49,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/mumbai-misal-pav.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Kanda Poha",
+    "description": "Traditional Maharashtrian flattened rice cooked with onions, roasted peanuts, curry leaves, and mustard seeds.",
+    "price": 35,
+    "categorySlug": "breakfast",
+    "preparationTime": 5,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "poha",
+      "breakfast",
+      "quick",
+      "maharashtrian"
+    ],
+    "image": "/food/ground-floor/kanda-poha.webp",
+    "rating": 4.9,
+    "popularityScore": 41,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/kanda-poha.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Batata Poha",
+    "description": "Light flattened rice tossed with diced potatoes, mustard, turmeric, and fresh coriander.",
+    "price": 35,
+    "categorySlug": "breakfast",
+    "preparationTime": 5,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "poha",
+      "batata",
+      "breakfast"
+    ],
+    "image": "/food/ground-floor/batata-poha.webp",
+    "rating": 4.7,
+    "popularityScore": 35,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/batata-poha.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Sabudana Khichdi",
+    "description": "Tapioca pearls tossed with roasted crushed peanuts, green chillies, and cumin seeds.",
+    "price": 50,
+    "categorySlug": "breakfast",
+    "preparationTime": 8,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "fasting",
+      "sabudana",
+      "gluten-free"
+    ],
+    "image": "/food/ground-floor/sabudana-khichdi.webp",
+    "rating": 4.2,
+    "popularityScore": 44,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/sabudana-khichdi.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Desi Ghee Sheera",
+    "description": "Rich, sweet semolina halwa prepared with pure desi ghee and roasted nuts.",
+    "price": 40,
+    "categorySlug": "breakfast",
+    "preparationTime": 5,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "sweet",
+      "halwa",
+      "breakfast"
+    ],
+    "image": "/food/ground-floor/desi-ghee-sheera.webp",
+    "rating": 4.8,
+    "popularityScore": 45,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/desi-ghee-sheera.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Upma with Coconut Chutney",
+    "description": "Fluffy roasted semolina tempered with mustard seeds, ginger, curry leaves, and cashews.",
+    "price": 35,
+    "categorySlug": "breakfast",
+    "preparationTime": 6,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "upma",
+      "healthy",
+      "breakfast"
+    ],
+    "image": "/food/ground-floor/upma-with-coconut-chutney.webp",
+    "rating": 4.9,
+    "popularityScore": 28,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/upma-with-coconut-chutney.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Bun Maska",
+    "description": "Freshly baked soft bun generously spread with creamy salted Amul butter.",
+    "price": 30,
+    "categorySlug": "breakfast",
+    "preparationTime": 2,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "bun maska",
+      "cafe",
+      "irani"
+    ],
+    "image": "/food/ground-floor/bun-maska.webp",
+    "rating": 4.4,
+    "popularityScore": 59,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/bun-maska.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Samosa Chaat",
+    "description": "Crushed crisp samosa mixed with warm chana masala, drizzled with curd, sweet tamarind chutney, and sev.",
+    "price": 65,
+    "categorySlug": "chaat",
+    "preparationTime": 6,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "samosa chaat",
+      "spicy"
+    ],
+    "image": "/food/ground-floor/samosa-chaat.webp",
+    "rating": 4.3,
+    "popularityScore": 33,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/samosa-chaat.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Mumbai Sev Puri (6 pcs)",
+    "description": "Crisp flat puris layered with potatoes, onions, trio of chutneys, blanketed in crunchy sev.",
+    "price": 50,
+    "categorySlug": "chaat",
+    "preparationTime": 4,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "sev puri",
+      "mumbai chaat",
+      "bestseller"
+    ],
+    "image": "/food/ground-floor/mumbai-sev-puri-6-pcs.webp",
+    "rating": 4.7,
+    "popularityScore": 40,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/mumbai-sev-puri-6-pcs.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Geela Bhel Puri",
+    "description": "Tangy and wet puffed rice tossed with potatoes, onions, tamarind chutney, and spicy green chilli paste.",
+    "price": 45,
+    "categorySlug": "chaat",
+    "preparationTime": 3,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "bhel puri",
+      "tangy"
+    ],
+    "image": "/food/ground-floor/geela-bhel-puri.webp",
+    "rating": 4.4,
+    "popularityScore": 27,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/geela-bhel-puri.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Pani Puri (6 pcs)",
+    "description": "Hollow crispy puris filled with spiced ragda and dunked in chilled spicy mint-coriander water.",
+    "price": 40,
+    "categorySlug": "chaat",
+    "preparationTime": 3,
+    "spicyLevel": "spicy",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "pani puri",
+      "golgappa",
+      "puchka"
+    ],
+    "image": "/food/ground-floor/pani-puri-6-pcs.webp",
+    "rating": 4.6,
+    "popularityScore": 69,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/pani-puri-6-pcs.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Dahi Batata Puri (6 pcs)",
+    "description": "Puffed crispy puris filled with potatoes, sweetened yogurt, tamarind chutney, and nylon sev.",
+    "price": 60,
+    "categorySlug": "chaat",
+    "preparationTime": 5,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "dahi puri",
+      "sweet and sour",
+      "cooling"
+    ],
+    "image": "/food/ground-floor/dahi-batata-puri-6-pcs.webp",
+    "rating": 4.7,
+    "popularityScore": 33,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/dahi-batata-puri-6-pcs.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Mumbai Veg Sandwich (Plain)",
+    "description": "Three slices of buttered bread packed with sliced beetroot, potatoes, cucumber, tomatoes, and chutney.",
+    "price": 45,
+    "categorySlug": "sandwiches",
+    "preparationTime": 4,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "bombay sandwich",
+      "fresh"
+    ],
+    "image": "/food/ground-floor/mumbai-veg-sandwich-plain.webp",
+    "rating": 4.6,
+    "popularityScore": 40,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/mumbai-veg-sandwich-plain.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Veg Toast Sandwich",
+    "description": "Toasted sandwich filled with spiced potato masala, onions, and spicy coriander chutney.",
+    "price": 50,
+    "categorySlug": "sandwiches",
+    "preparationTime": 7,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "toast sandwich",
+      "crispy"
+    ],
+    "image": "/food/ground-floor/veg-toast-sandwich.webp",
+    "rating": 4.8,
+    "popularityScore": 54,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/veg-toast-sandwich.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Veg Cheese Grill Sandwich",
+    "description": "Large jumbo sandwich stuffed with fresh vegetables, spiced butter, and melted cheese, grilled to crisp perfection.",
+    "price": 90,
+    "categorySlug": "sandwiches",
+    "preparationTime": 10,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "veg cheese grill",
+      "huge",
+      "bestseller"
+    ],
+    "image": "/food/ground-floor/veg-cheese-grill-sandwich.webp",
+    "rating": 4.4,
+    "popularityScore": 93,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/veg-cheese-grill-sandwich.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Veg Club Sandwich (Triple Decker)",
+    "description": "Three layers of toasted bread filled with coleslaw, potato masala, cucumber, tomato, and cheese.",
+    "price": 110,
+    "categorySlug": "sandwiches",
+    "preparationTime": 12,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "club sandwich",
+      "filling"
+    ],
+    "image": "/food/ground-floor/veg-club-sandwich-triple-decker.webp",
+    "rating": 4.8,
+    "popularityScore": 94,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/veg-club-sandwich-triple-decker.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Cheese Veg Frankie",
+    "description": "Classic vegetable frankie rolled with a generous shower of grated cheddar cheese.",
+    "price": 70,
+    "categorySlug": "frankies",
+    "preparationTime": 7,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "cheese frankie",
+      "bestseller"
+    ],
+    "image": "/food/ground-floor/cheese-veg-frankie.webp",
+    "rating": 4.5,
+    "popularityScore": 99,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/cheese-veg-frankie.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Plain Dosa",
+    "description": "Crispy golden crepe made of fermented rice and black gram batter served with sambar and chutneys.",
+    "price": 50,
+    "categorySlug": "south-indian",
+    "preparationTime": 8,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "dosa",
+      "crispy"
+    ],
+    "image": "/food/ground-floor/plain-dosa.webp",
+    "rating": 4.4,
+    "popularityScore": 66,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/plain-dosa.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Masala Dosa",
+    "description": "Crisp rice crepe stuffed with spiced mashed potato bhaji, served with sambar and coconut chutney.",
+    "price": 65,
+    "categorySlug": "south-indian",
+    "preparationTime": 10,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "dosa",
+      "masala",
+      "classic"
+    ],
+    "image": "/food/ground-floor/masala-dosa.webp",
+    "rating": 4.6,
+    "popularityScore": 77,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/masala-dosa.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Mysore Masala Dosa",
+    "description": "Signature Mumbai college favorite dosa smeared with red spicy chutney and stuffed with potato bhaji.",
+    "price": 75,
+    "categorySlug": "south-indian",
+    "preparationTime": 11,
+    "spicyLevel": "spicy",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "mysore masala",
+      "popular",
+      "mumbai favorite"
+    ],
+    "image": "/food/ground-floor/mysore-masala-dosa.webp",
+    "rating": 4.6,
+    "popularityScore": 52,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/mysore-masala-dosa.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Idli Vada Mix Plate",
+    "description": "1 soft steamed idli paired with 1 crispy medu vada and coconut chutney.",
+    "price": 45,
+    "categorySlug": "breakfast",
+    "preparationTime": 5,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "idli",
+      "vada",
+      "combo"
+    ],
+    "image": "/food/ground-floor/idli-vada-mix-plate.webp",
+    "rating": 4.2,
+    "popularityScore": 86,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/idli-vada-mix-plate.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Medu Vada Breakfast Plate",
+    "description": "2 crispy fried lentil doughnuts served with hot spicy coconut chutney.",
+    "price": 45,
+    "categorySlug": "breakfast",
+    "preparationTime": 6,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "vada",
+      "south indian"
+    ],
+    "image": "/food/ground-floor/medu-vada-breakfast-plate.webp",
+    "rating": 4.6,
+    "popularityScore": 84,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/medu-vada-breakfast-plate.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Onion Uttapam",
+    "description": "Thick, fluffy fermented rice pancake topped with golden caramelized onions and coriander.",
+    "price": 70,
+    "categorySlug": "south-indian",
+    "preparationTime": 11,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "uttapam",
+      "onion"
+    ],
+    "image": "/food/ground-floor/onion-uttapam.webp",
+    "rating": 4.1,
+    "popularityScore": 61,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/onion-uttapam.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Mithibai Cutting Chai",
+    "description": "The pulse of college life: strong boiled black tea with milk and crushed ginger.",
+    "price": 15,
+    "categorySlug": "tea",
+    "preparationTime": 2,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "cutting chai",
+      "tea",
+      "essential"
+    ],
+    "image": "/food/ground-floor/mithibai-cutting-chai.webp",
+    "rating": 4.9,
+    "popularityScore": 56,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/mithibai-cutting-chai.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "South Indian Filter Coffee",
+    "description": "Strong chicory coffee decoction frothed with boiling hot milk in stainless steel dabarah.",
+    "price": 30,
+    "categorySlug": "coffee",
+    "preparationTime": 3,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "filter coffee",
+      "authentic"
+    ],
+    "image": "/food/ground-floor/south-indian-filter-coffee.webp",
+    "rating": 4.4,
+    "popularityScore": 77,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/south-indian-filter-coffee.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Cold Coffee with Vanilla Ice Cream",
+    "description": "Strong brewed coffee blended with chilled milk and topped with vanilla ice cream.",
+    "price": 70,
+    "categorySlug": "coffee",
+    "preparationTime": 4,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "cold coffee",
+      "bestseller"
+    ],
+    "image": "/food/ground-floor/cold-coffee-with-vanilla-ice-cream.webp",
+    "rating": 4.4,
+    "popularityScore": 62,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/cold-coffee-with-vanilla-ice-cream.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Fresh Mosambi Juice",
+    "description": "Sweet lime juice freshly extracted and served chilled with black salt.",
+    "price": 50,
+    "categorySlug": "juices",
+    "preparationTime": 3,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "mosambi",
+      "fresh juice",
+      "healthy"
+    ],
+    "image": "/food/ground-floor/fresh-mosambi-juice.webp",
+    "rating": 4.6,
+    "popularityScore": 72,
+    "stock": 60,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Spice Level",
+        "options": [
+          "Regular",
+          "Mild",
+          "Extra Spicy"
+        ],
+        "required": false
+      },
+      {
+        "name": "Add-ons",
+        "options": [
+          "Extra Chutney",
+          "Extra Pav",
+          "Extra Cheese (+\u20b920)"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/ground-floor/fresh-mosambi-juice.webp",
+    "isAiGenerated": true
+  }
+]

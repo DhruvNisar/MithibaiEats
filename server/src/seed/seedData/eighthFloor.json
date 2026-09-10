@@ -1,0 +1,960 @@
+[
+  {
+    "name": "Jain Mumbai Pav Bhaji",
+    "description": "Famous street pav bhaji made from green bananas, ripe tomatoes, bell peppers, and butter, served with 2 pavs.",
+    "price": 100,
+    "categorySlug": "jain-food",
+    "preparationTime": 9,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "jain pav bhaji",
+      "bestseller"
+    ],
+    "image": "/food/8th-floor/jain-mumbai-pav-bhaji.webp",
+    "rating": 4.7,
+    "popularityScore": 82,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/jain-mumbai-pav-bhaji.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Jain Paneer Makhani Bowl",
+    "description": "Pure Jain cottage cheese cooked in creamy cashew and tomato gravy (no onion, garlic, or root veg) with Jeera Rice.",
+    "price": 145,
+    "categorySlug": "jain-food",
+    "preparationTime": 11,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "jain",
+      "paneer makhani",
+      "pure jain"
+    ],
+    "image": "/food/8th-floor/jain-paneer-makhani-bowl.webp",
+    "rating": 4.7,
+    "popularityScore": 87,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/jain-paneer-makhani-bowl.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Jain Yellow Dal Fry with Rice",
+    "description": "Yellow lentils tempered with cumin, green chillies, and pure desi ghee served over steamed basmati rice.",
+    "price": 95,
+    "categorySlug": "jain-food",
+    "preparationTime": 8,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "jain dal rice"
+    ],
+    "image": "/food/8th-floor/jain-yellow-dal-fry-with-rice.webp",
+    "rating": 4.6,
+    "popularityScore": 58,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/jain-yellow-dal-fry-with-rice.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Jain Desi Ghee Moong Khichdi",
+    "description": "Comforting yellow moong and rice khichdi prepared with turmeric, rock salt, and hot desi ghee.",
+    "price": 90,
+    "categorySlug": "jain-food",
+    "preparationTime": 8,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "jain khichdi",
+      "comfort"
+    ],
+    "image": "/food/8th-floor/jain-desi-ghee-moong-khichdi.webp",
+    "rating": 4.6,
+    "popularityScore": 56,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/jain-desi-ghee-moong-khichdi.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Jain Chana Masala with Kulcha",
+    "description": "White chickpeas simmered in aromatic tomato and whole spice gravy, served with 2 soft kulchas.",
+    "price": 115,
+    "categorySlug": "jain-food",
+    "preparationTime": 10,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "jain chana"
+    ],
+    "image": "/food/8th-floor/jain-chana-masala-with-kulcha.webp",
+    "rating": 4.6,
+    "popularityScore": 33,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/jain-chana-masala-with-kulcha.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Jain Cheese & Sweet Corn Panini",
+    "description": "Golden sweet corn and abundant mozzarella pressed in crusty bread with Jain spices.",
+    "price": 105,
+    "categorySlug": "sandwiches",
+    "preparationTime": 10,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "jain panini"
+    ],
+    "image": "/food/8th-floor/jain-cheese-sweet-corn-panini.webp",
+    "rating": 4.3,
+    "popularityScore": 41,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/jain-cheese-sweet-corn-panini.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Jain Cheese Grilled Panini",
+    "description": "Crusty panini bread filled with diced tomatoes, capsicum, sweet corn, and mozzarella cheese.",
+    "price": 105,
+    "categorySlug": "jain-food",
+    "preparationTime": 10,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "jain panini"
+    ],
+    "image": "/food/8th-floor/jain-cheese-grilled-panini.webp",
+    "rating": 4.3,
+    "popularityScore": 38,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/jain-cheese-grilled-panini.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Jain Hakka Noodles",
+    "description": "Wok-tossed noodles with shredded cabbage, bell peppers, and light soya sauce (zero onion or garlic).",
+    "price": 95,
+    "categorySlug": "jain-food",
+    "preparationTime": 9,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "jain noodles"
+    ],
+    "image": "/food/8th-floor/jain-hakka-noodles.webp",
+    "rating": 4.4,
+    "popularityScore": 68,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/jain-hakka-noodles.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Jain Paneer Manchurian Dry",
+    "description": "Crispy paneer cubes tossed in ginger-free soya chilli glaze with capsicum.",
+    "price": 135,
+    "categorySlug": "jain-food",
+    "preparationTime": 10,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "jain manchurian"
+    ],
+    "image": "/food/8th-floor/jain-paneer-manchurian-dry.webp",
+    "rating": 4.4,
+    "popularityScore": 27,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/jain-paneer-manchurian-dry.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Jain Cheese Sev Puri (6 pcs)",
+    "description": "Crispy flat puris with diced tomatoes, raw mango, sweet dates chutney, cheese, and crunchy sev.",
+    "price": 70,
+    "categorySlug": "jain-food",
+    "preparationTime": 5,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "jain sev puri"
+    ],
+    "image": "/food/8th-floor/jain-cheese-sev-puri-6-pcs.webp",
+    "rating": 4.4,
+    "popularityScore": 67,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/jain-cheese-sev-puri-6-pcs.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Classic French Butter Croissant",
+    "description": "Flaky, multi-layered golden all-butter French croissant baked fresh daily.",
+    "price": 65,
+    "categorySlug": "bakery",
+    "preparationTime": 3,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "croissant",
+      "bakery",
+      "french"
+    ],
+    "image": "/food/8th-floor/classic-french-butter-croissant.webp",
+    "rating": 4.8,
+    "popularityScore": 78,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/classic-french-butter-croissant.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Belgian Chocolate Croissant",
+    "description": "Flaky pastry loaded with twin batons of rich Belgian semi-sweet dark chocolate.",
+    "price": 80,
+    "categorySlug": "bakery",
+    "preparationTime": 3,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "pain au chocolat",
+      "chocolate"
+    ],
+    "image": "/food/8th-floor/belgian-chocolate-croissant.webp",
+    "rating": 4.5,
+    "popularityScore": 45,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/belgian-chocolate-croissant.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Wild Blueberry Crumble Muffin",
+    "description": "Moist vanilla muffin bursting with whole blueberries and crowned with cinnamon streusel.",
+    "price": 60,
+    "categorySlug": "bakery",
+    "preparationTime": 2,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "blueberry muffin",
+      "muffin"
+    ],
+    "image": "/food/8th-floor/wild-blueberry-crumble-muffin.webp",
+    "rating": 4.6,
+    "popularityScore": 27,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/wild-blueberry-crumble-muffin.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Double Choco-Chip Muffin",
+    "description": "Decadent Dutch cocoa muffin packed with molten dark and milk chocolate chips.",
+    "price": 65,
+    "categorySlug": "bakery",
+    "preparationTime": 2,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "choco muffin",
+      "chocolate"
+    ],
+    "image": "/food/8th-floor/double-choco-chip-muffin.webp",
+    "rating": 4.4,
+    "popularityScore": 51,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/double-choco-chip-muffin.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Cinnamon Swirl Roll",
+    "description": "Warm rolled pastry ribboned with aromatic Ceylon cinnamon sugar and vanilla cream glaze.",
+    "price": 70,
+    "categorySlug": "bakery",
+    "preparationTime": 3,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "cinnamon roll",
+      "sweet"
+    ],
+    "image": "/food/8th-floor/cinnamon-swirl-roll.webp",
+    "rating": 4.6,
+    "popularityScore": 33,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/cinnamon-swirl-roll.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Molten Choco Lava Cake",
+    "description": "Warm chocolate cake with an irresistible flowing warm liquid chocolate center.",
+    "price": 85,
+    "categorySlug": "desserts",
+    "preparationTime": 6,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "choco lava",
+      "bestseller",
+      "warm dessert"
+    ],
+    "image": "/food/8th-floor/molten-choco-lava-cake.webp",
+    "rating": 4.7,
+    "popularityScore": 86,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/molten-choco-lava-cake.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Red Velvet Cupcake with Cream Cheese",
+    "description": "Ruby red velvet cake topped with velvety vanilla cream cheese frosting.",
+    "price": 65,
+    "categorySlug": "bakery",
+    "preparationTime": 2,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "red velvet",
+      "cupcake"
+    ],
+    "image": "/food/8th-floor/red-velvet-cupcake-with-cream-cheese.webp",
+    "rating": 4.9,
+    "popularityScore": 94,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/red-velvet-cupcake-with-cream-cheese.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "New York Baked Cheesecake Slice",
+    "description": "Dense, velvety smooth traditional baked cheesecake on a golden graham cracker crust.",
+    "price": 120,
+    "categorySlug": "desserts",
+    "preparationTime": 3,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "cheesecake",
+      "new york"
+    ],
+    "image": "/food/8th-floor/new-york-baked-cheesecake-slice.webp",
+    "rating": 4.5,
+    "popularityScore": 98,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/new-york-baked-cheesecake-slice.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Blueberry Compote Cheesecake Slice",
+    "description": "Classic baked cheesecake topped with glossy homemade wild blueberry compote.",
+    "price": 135,
+    "categorySlug": "desserts",
+    "preparationTime": 3,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "blueberry cheesecake"
+    ],
+    "image": "/food/8th-floor/blueberry-compote-cheesecake-slice.webp",
+    "rating": 4.5,
+    "popularityScore": 27,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/blueberry-compote-cheesecake-slice.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Warm Walnut Brownie with Gelato",
+    "description": "Fudgy warm walnut chocolate brownie paired with a scoop of Madagascar vanilla gelato.",
+    "price": 95,
+    "categorySlug": "desserts",
+    "preparationTime": 5,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "brownie gelato",
+      "bestseller",
+      "warm dessert"
+    ],
+    "image": "/food/8th-floor/warm-walnut-brownie-with-gelato.webp",
+    "rating": 4.5,
+    "popularityScore": 48,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/warm-walnut-brownie-with-gelato.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Paneer Tikka Kathi Roll",
+    "description": "Charcoal spiced paneer cubes, crunchy bell peppers, and mint yoghurt rolled in flaky paratha.",
+    "price": 95,
+    "categorySlug": "rolls",
+    "preparationTime": 9,
+    "spicyLevel": "medium",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "kathi roll",
+      "paneer",
+      "bestseller"
+    ],
+    "image": "/food/8th-floor/paneer-tikka-kathi-roll.webp",
+    "rating": 4.8,
+    "popularityScore": 33,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/paneer-tikka-kathi-roll.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Authentic Falafel & Hummus Wrap",
+    "description": "Crispy chickpea herb falafels, creamy garlic tahini hummus, pickled cucumber, and lettuce in pita wrap.",
+    "price": 95,
+    "categorySlug": "wraps",
+    "preparationTime": 8,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "falafel",
+      "hummus",
+      "mediterranean"
+    ],
+    "image": "/food/8th-floor/authentic-falafel-hummus-wrap.webp",
+    "rating": 4.3,
+    "popularityScore": 85,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/authentic-falafel-hummus-wrap.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Mediterranean Grilled Veggie Wrap",
+    "description": "Roasted zucchini, bell peppers, sun-dried tomatoes, and crumbled feta cheese wrapped warm.",
+    "price": 110,
+    "categorySlug": "wraps",
+    "preparationTime": 9,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "mediterranean",
+      "healthy"
+    ],
+    "image": "/food/8th-floor/mediterranean-grilled-veggie-wrap.webp",
+    "rating": 4.5,
+    "popularityScore": 91,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/mediterranean-grilled-veggie-wrap.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Corn & Spinach Grilled Panini",
+    "description": "Sourdough panini bread pressed with creamed sweet corn, baby spinach, and mozzarella cheese.",
+    "price": 100,
+    "categorySlug": "sandwiches",
+    "preparationTime": 10,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "panini",
+      "corn spinach"
+    ],
+    "image": "/food/8th-floor/corn-spinach-grilled-panini.webp",
+    "rating": 4.4,
+    "popularityScore": 81,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/corn-spinach-grilled-panini.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Greek Feta Village Salad",
+    "description": "Chunky cucumbers, heirloom tomatoes, red onions, bell peppers, kalamata olives, and Greek feta slab.",
+    "price": 120,
+    "categorySlug": "healthy-food",
+    "preparationTime": 7,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "greek salad",
+      "fresh"
+    ],
+    "image": "/food/8th-floor/greek-feta-village-salad.webp",
+    "rating": 4.6,
+    "popularityScore": 48,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/greek-feta-village-salad.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Watermelon Mint & Feta Salad",
+    "description": "Juicy cubes of chilled red watermelon, fresh mint leaves, crumbled feta, and balsamic reduction.",
+    "price": 100,
+    "categorySlug": "healthy-food",
+    "preparationTime": 6,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "watermelon feta",
+      "refreshing"
+    ],
+    "image": "/food/8th-floor/watermelon-mint-feta-salad.webp",
+    "rating": 4.8,
+    "popularityScore": 72,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/watermelon-mint-feta-salad.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Roasted Chickpea & Beetroot Salad",
+    "description": "Crispy spiced roasted kabuli chana, roasted ruby beets, baby greens, and tahini dressing.",
+    "price": 110,
+    "categorySlug": "healthy-food",
+    "preparationTime": 8,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": false,
+    "tags": [
+      "beetroot chickpea",
+      "iron rich"
+    ],
+    "image": "/food/8th-floor/roasted-chickpea-beetroot-salad.webp",
+    "rating": 4.6,
+    "popularityScore": 52,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/roasted-chickpea-beetroot-salad.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Cold Caramel Frappe",
+    "description": "Blended iced coffee drink whipped with caramel sauce and crowned with whipped cream.",
+    "price": 115,
+    "categorySlug": "coffee",
+    "preparationTime": 5,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "caramel frappe",
+      "frappuccino"
+    ],
+    "image": "/food/8th-floor/cold-caramel-frappe.webp",
+    "rating": 4.7,
+    "popularityScore": 82,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/cold-caramel-frappe.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Hazelnut Cold Coffee Blast",
+    "description": "Thick chilled blended coffee infused with roasted hazelnut puree and vanilla ice cream.",
+    "price": 95,
+    "categorySlug": "coffee",
+    "preparationTime": 5,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "hazelnut coffee",
+      "bestseller"
+    ],
+    "image": "/food/8th-floor/hazelnut-cold-coffee-blast.webp",
+    "rating": 4.6,
+    "popularityScore": 54,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/hazelnut-cold-coffee-blast.webp",
+    "isAiGenerated": true
+  },
+  {
+    "name": "Peach Passionfruit Iced Tea",
+    "description": "Brewed Ceylon black tea chilled with ripe peach puree and sweet passionfruit syrup.",
+    "price": 75,
+    "categorySlug": "tea",
+    "preparationTime": 3,
+    "spicyLevel": "mild",
+    "vegetarian": true,
+    "jainAvailable": true,
+    "tags": [
+      "peach tea",
+      "fruity"
+    ],
+    "image": "/food/8th-floor/peach-passionfruit-iced-tea.webp",
+    "rating": 4.3,
+    "popularityScore": 61,
+    "stock": 45,
+    "available": true,
+    "customizations": [
+      {
+        "name": "Customization",
+        "options": [
+          "Regular",
+          "Make it Jain",
+          "Extra Sauce"
+        ],
+        "required": false
+      }
+    ],
+    "imageUrl": "/food/8th-floor/peach-passionfruit-iced-tea.webp",
+    "isAiGenerated": true
+  }
+]

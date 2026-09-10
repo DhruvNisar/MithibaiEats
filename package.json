@@ -1,0 +1,33 @@
+{
+  "name": "mithibai-eats",
+  "version": "2.0.0",
+  "description": "Production-quality campus food ordering web application for SVKM Mithibai College",
+  "scripts": {
+    "server:dev": "npm run dev --prefix server",
+    "server:build": "npm run build --prefix server",
+    "server:start": "npm run start --prefix server",
+    "server:seed": "npm run seed --prefix server",
+    "client:dev": "npm run dev --prefix client",
+    "client:build": "npm run build --prefix client",
+    "build": "npm run server:build && npm run client:build",
+    "test:auth": "npm run test:auth --prefix server",
+    "test:student": "npm run test:student --prefix server",
+    "test:socket": "npm run test:socket --prefix server",
+    "test:qr-pay": "npm run test:qr-pay --prefix server",
+    "test:ai": "npm run test:ai --prefix server",
+    "test:admin": "npm run test:admin --prefix server"
+  },
+  "keywords": [
+    "mithibai",
+    "food-ordering",
+    "canteen",
+    "react",
+    "vite",
+    "nodejs",
+    "typescript",
+    "socketio",
+    "mongodb"
+  ],
+  "author": "Antigravity Engineering",
+  "license": "MIT"
+}
