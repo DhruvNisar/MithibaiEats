@@ -104,29 +104,24 @@ initSocketServer(server);
 import { Canteen } from './models/Canteen';
 import { seedDatabase } from './seed/seed';
 
-// Start server
-const startServer = async () => {
-  try {
-    await connectDB();
+const startServer = () => {
+  server.listen(config.port, '0.0.0.0', async () => {
+    console.log(`🚀 Mithibai Eats server listening on 0.0.0.0:${config.port}`);
+    console.log(`📡 Socket.IO server initialized`);
 
-    // Check if database needs seeding
-    const canteenCount = await Canteen.countDocuments();
-    if (canteenCount === 0) {
-      console.log('📦 Empty database detected. Auto-seeding Mithibai Eats data...');
-      await seedDatabase();
-    } else {
-      console.log(`📦 Database ready with ${canteenCount} canteens.`);
+    try {
+      await connectDB();
+      const canteenCount = await Canteen.countDocuments();
+      if (canteenCount === 0) {
+        console.log('📦 Empty database detected. Auto-seeding Mithibai Eats data...');
+        await seedDatabase();
+      } else {
+        console.log(`📦 Database ready with ${canteenCount} canteens.`);
+      }
+    } catch (error) {
+      console.error('⚠️ Non-fatal DB initialization warning:', error);
     }
-
-    server.listen(config.port, () => {
-      console.log(`🚀 Mithibai Eats server listening on port ${config.port}`);
-      console.log(`📡 Socket.IO server initialized`);
-      console.log(`🌐 Client origin set to: ${config.clientUrl}`);
-    });
-  } catch (error) {
-    console.error('Fatal error starting server:', error);
-    process.exit(1);
-  }
+  });
 };
 
 startServer();
