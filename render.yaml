@@ -1,0 +1,33 @@
+services:
+  # Backend API Web Service
+  - type: web
+    name: mithibai-eats-api
+    env: node
+    buildCommand: npm run server:build
+    startCommand: npm run server:start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: JWT_SECRET
+        generateValue: true
+      - key: MONGO_URI
+        sync: false
+      - key: CLIENT_URL
+        sync: false
+      - key: RAZORPAY_KEY_ID
+        value: rzp_test_TaEujHav1qsOvi
+      - key: RAZORPAY_KEY_SECRET
+        value: 9Co5G8FZ1ybxJSjqBrv3vld5
+
+  # Frontend Static Web Site
+  - type: web
+    name: mithibai-eats-client
+    env: static
+    buildCommand: npm run client:build
+    staticPublishPath: ./client/dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
